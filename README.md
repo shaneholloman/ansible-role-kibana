@@ -1,6 +1,6 @@
 # Ansible Role: Kibana
 
-[![CI](https://github.com/shaneholloman-org/ansible-role-kibana/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman-org/ansible-role-kibana/actions/workflows/ci.yml)
+[![CI](https://github.com/shaneholloman/ansible-role-kibana/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman/ansible-role-kibana/actions/workflows/ci.yml)
 
 An Ansible Role that installs Kibana on RedHat/CentOS or Debian/Ubuntu.
 
@@ -62,4 +62,3 @@ MIT / BSD
 ## Author Information
 
 This role was created in 2023
-
